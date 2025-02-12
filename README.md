@@ -1,6 +1,6 @@
 ![ag.dev-banner](https://github.com/01AleX12/aagdev/blob/main/aag%20dev..png)
 
-<span>>👋</span><h2 align="left">Hey there! I'm Alex</h2>
+<h2 align="left">👋&nbspHey there! I'm Alex</h2>
 
 <!--👋&nbsp;Hey there! I'm Alex -->
 
