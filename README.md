@@ -6,11 +6,11 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-👨‍💻 &nbsp;I am Currently Studying as Web Developer.
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.
+👨‍💻 &nbsp;I am Currently Studying as Web Developer.\
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 <!-- 🎓 &nbsp;I have completed my BE in Computer Science and Information Technology at New Horizon College of Engineering .\-->
-🌱 &nbsp;I'm on track for learning more about Gen AI, Microservice Based Architecture, Machine Learning.
-✍️ &nbsp;In my free time, I pursue Web Designing and Code Writing as hobbies/side hustles.
+🌱 &nbsp;I'm on track for learning more about Gen AI, Microservice Based Architecture, Machine Learning.\
+✍️ &nbsp;In my free time, I pursue Web Designing and Code Writing as hobbies/side hustles.\
 ✉️ &nbsp;You can shoot me an email at aag.devv@gmail.com! I'll try to respond as soon as I can.
 
 
