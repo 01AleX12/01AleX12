@@ -14,7 +14,7 @@
 ✉️ &nbsp;You can shoot me an email at aag.devv@gmail.com! I'll try to respond as soon as I can.
 
 
-<img alt="Night Coding" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXlyaHh2bXZ6Y28yN2ZyM3I5cG4ybWZpZXh2cnI4cnozcXIxbHlvOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width=50rem align="right"/>
+<img alt="Night Coding" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXlyaHh2bXZ6Y28yN2ZyM3I5cG4ybWZpZXh2cnI4cnozcXIxbHlvOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width=30rem align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -59,10 +59,10 @@
 
 <p align="center">
   <a href="https://github.com/01AleX12">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adityakanoi2001&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=01AleX12&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/01AleX12">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adityakanoi2001&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=01AleX12&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
 
