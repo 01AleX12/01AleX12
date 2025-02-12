@@ -1,4 +1,4 @@
-![ag.dev-banner]([(https://github.com/01AleX12/aagdev/blob/main/aag%20dev..png)])
+![ag.dev-banner](https://github.com/01AleX12/aagdev/blob/main/aag%20dev..png)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Alex</h2>
 
