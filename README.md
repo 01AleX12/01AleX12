@@ -13,7 +13,7 @@
 ✉️ &nbsp;You can shoot me an email at aag.devv@gmail.com! I'll try to respond as soon as I can.
 
 
-<img alt="Night Coding" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXlyaHh2bXZ6Y28yN2ZyM3I5cG4ybWZpZXh2cnI4cnozcXIxbHlvOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="500px" align="right"/>
+<img alt="Night Coding" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXlyaHh2bXZ6Y28yN2ZyM3I5cG4ybWZpZXh2cnI4cnozcXIxbHlvOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="200px" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
