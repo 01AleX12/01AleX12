@@ -2,20 +2,19 @@
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Alex</h2>
 
-<!-- ## :wave: &nbsp;Hey there! I'm Alex -->
+<!-- 👋&nbsp;Hey there! I'm Alex -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-👨‍💻 &nbsp;I am Currently Studying as Web Developer.\
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+👨‍💻 &nbsp;I am Currently Studying as Web Developer.
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.
 <!-- 🎓 &nbsp;I have completed my BE in Computer Science and Information Technology at New Horizon College of Engineering .\-->
-🌱 &nbsp;I'm on track for learning more about Gen AI, Microservice Based Architecture, Machine Learning.\
-✍️ &nbsp;In my free time, I pursue Logo Designing and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at aag.devv@gmail.com! I'll try to respond as soon as I can.\
+🌱 &nbsp;I'm on track for learning more about Gen AI, Microservice Based Architecture, Machine Learning.
+✍️ &nbsp;In my free time, I pursue Web Designing and Code Writing as hobbies/side hustles.
+✉️ &nbsp;You can shoot me an email at aag.devv@gmail.com! I'll try to respond as soon as I can.
 
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXlyaHh2bXZ6Y28yN2ZyM3I5cG4ybWZpZXh2cnI4cnozcXIxbHlvOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
