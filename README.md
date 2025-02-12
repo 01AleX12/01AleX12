@@ -65,10 +65,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=01AleX12&theme=dark&hide_border=true"/>
-</p>
-
 
 ### 🤝🏻 &nbsp;Connect with Me
 
