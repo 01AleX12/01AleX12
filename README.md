@@ -1,5 +1,4 @@
 <img width="100%" height="1024" alt="banner" src="https://github.com/user-attachments/assets/c368e045-b555-4879-a7e8-adf6c4151ecc" />
-<img width="100%" height="1024" alt="banner2" src="https://github.com/user-attachments/assets/1bd712ec-8b7e-45fb-a054-8458d2654795" />
 
 <h2 align="left">👋&nbspHey there! I'm Alex</h2>
 
