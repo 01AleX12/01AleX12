@@ -1,6 +1,7 @@
-![ag.dev-banner](https://github.com/01AleX12/aagdev/blob/main/aag%20dev..png)
+<img width="100%" height="1024" alt="banner" src="https://github.com/user-attachments/assets/c368e045-b555-4879-a7e8-adf6c4151ecc" />
 
 <h2 align="left">👋&nbspHey there! I'm Alex</h2>
+
 
 <!--👋&nbsp;Hey there! I'm Alex -->
 
