@@ -1,4 +1,4 @@
-<img width="100%" height="1024" alt="banner" src="https://github.com/user-attachments/assets/c368e045-b555-4879-a7e8-adf6c4151ecc" />
+<img width="100%" height="2304" alt="aag dev" src="https://github.com/user-attachments/assets/a0e608ce-ebd5-4995-82ea-9bfcc5f1cf62" />
 
 <h2 align="left">👋&nbspHey there! I'm Alex</h2>
 
